@@ -8,22 +8,22 @@ module.exports = {
 
   // basic site info (required)
   name: '扶桑若木',
-  domain: 'https://www.notion.so/kingllisky/blog-c5f529ae0c51406e8d225c5c6ce1cc4c',
+  domain: 'https://kinglisky.vercel.app',
   author: 'kinglisky',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: '日常摸鱼写点东西',
+  socialImageTitle: '扶桑若木',
+  socialImageSubtitle: '扶桑若木',
 
   // social usernames (optional)
-  twitter: 'kinglisky',
+  twitter: '',
   github: 'kinglisky',
   linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
+  defaultPageIcon: 'https://erii-blog.oss-cn-hangzhou.aliyuncs.com/notion-avatar.png',
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
